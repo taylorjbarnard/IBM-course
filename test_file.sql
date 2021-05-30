@@ -1,0 +1,3 @@
+SELECT *
+FROM *
+WHERE 3 > 4
